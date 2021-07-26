@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ezh",
+  "name": "ezHax",
+  "description": "Example placeholder mod.",
+  "version": "${0.0.1}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["me"],
+  "credits": "Credits go to me",
+  "logoFile": "download.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
